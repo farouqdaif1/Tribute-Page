@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: 0;
+    font-family: poppins, sans-serif;
+}
+#main{
+    background-color:rgb(243, 243, 243);
+    padding: 20px;
+    text-align:center;
+}
+#title{
+    font-size:1.8rem;
+    margin:20px;
+    color:rgb(68, 68, 68);
+    font-weight: bold;
+}
+img{
+    width:100%;
+    max-width: 1000px;
+}
+
+#img-div{
+    background-color:white;
+    padding: 20px;
+}
+#img-caption{
+    margin: 20px;
+    color:rgb(68, 68, 68);
+    font-weight: bold;
+}
+div ul{
+ background-color:#eee;
+color: black;}
+ div ul li{
+ margin:auto;
+ margin-top: 50px;
+ margin-bottom: 50px;
+width: 300px;
+}
